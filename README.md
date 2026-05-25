@@ -22,6 +22,7 @@ Passionate about building scalable ML systems, production-ready AI applications,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
 ### Machine Learning & AI
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -38,6 +39,7 @@ Passionate about building scalable ML systems, production-ready AI applications,
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
 
 ### 🔹 GenAI Skills
 - Prompt Engineering
@@ -78,7 +80,47 @@ Passionate about building scalable ML systems, production-ready AI applications,
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 
-### Cloud & Data
+## ☁️ Cloud, DevOps & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+
+### 🔹 DevOps & MLOps Skills
+- CI/CD Pipelines
+- Docker Containerization
+- Kubernetes Basics
+- Jenkins Automation
+- ML Deployment Workflows
+- Model Versioning
+- MLflow Experiment Tracking
+- Deployment Automation
+- Production Monitoring Concepts
+
+---
+
+## 🗄️ Databases & Search Technologies
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### 🔹 Database Skills
+- SQL Queries & Optimization
+- MongoDB Basics
+- Elasticsearch Concepts
+- Vector Search Concepts
+- Data Handling & Processing
+- Structured & Unstructured Data Management
+
+
+### Big Data
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
