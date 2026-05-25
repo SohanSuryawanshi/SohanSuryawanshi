@@ -28,15 +28,55 @@ Passionate about building scalable ML systems, production-ready AI applications,
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=numpy&logoColor=white)
 
-### GenAI & LLM
+
+## 🤖 Generative AI & LLM
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🔹 GenAI Skills
+- Prompt Engineering
+- RAG (Retrieval-Augmented Generation)
+- Vector Databases
+- Semantic Search
+- LLM Evaluation
+- AI Agents
+- Context-Aware Retrieval
+- Multi-Query Retrieval
+- PDF-based Q&A Systems
+- Embedding Models
+- Fine-Tuning Concepts
+- Hallucination Reduction Techniques
+
+---
+
+## 🧠 AI Coding & Productivity Tools
+
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
+
+### 🔹 Experienced With
+- Cursor AI IDE
+- GitHub Copilot
+- Claude Code
+- AI-assisted Development
+- Code Generation & Refactoring
+- AI Pair Programming
+- Prompt-based Debugging
+- Productivity Workflows using AI Tools
+
 
 ### MLOps & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 
 ### Cloud & Data
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
