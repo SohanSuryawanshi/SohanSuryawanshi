@@ -125,11 +125,6 @@ Passionate about building scalable ML systems, production-ready AI applications,
 
 ---
 
-## 🔥 GitHub Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SohanSuryawanshi&theme=default)](https://git.io/streak-stats)
-
----
 
 ## 🌐 Connect With Me
 
