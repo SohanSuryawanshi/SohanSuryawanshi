@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sohan Suryawanshi
 
-## 🚀 Machine Learning | MLOps | Generative AI Engineer
+## 🚀 AI and Data Science Engineer | Machine Learning | MLOps | Generative AI Engineer
 
 Passionate about building scalable ML systems, production-ready AI applications, and end-to-end MLOps pipelines.
 
